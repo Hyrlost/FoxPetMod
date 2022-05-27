@@ -11,6 +11,7 @@ Actually, there is a updated version of this mod where I modified directly the M
 
 If you want to contact me, please add me on discord Hyrlost#6321.
 
+Also, if you have any feedback or improvement I can do, please let me know, I will appreaciate so much this action <3
 
 ## Setup
 
